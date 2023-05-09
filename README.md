@@ -49,10 +49,9 @@ Soy una persona extrovertida, curiosa y entusiasta que busca dia a dia nuevos de
 
 <div align="center">
 
-<a href="https://github.com/Nachomorales99/PI-Pokemon-Henry"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nachomorales99&repo=PI-Pokemon-Henry&theme=cobalt2&hide_border=true&show_icons=true&description=Proyecto%20Individual%20Henry%20sobre%20Pok%C3%A9mon.
-" alt="Poke App"></a>
-
 <a href="https://github.com/Nachomorales99/PatitasFelices"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nachomorales99&repo=PatitasFelices&theme=gruvbox&hide_border=true&show_icons=true" alt="Patitas Felices"></a>
+
+<a href="https://github.com/Nachomorales99/PI-Pokemon-Henry"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nachomorales99&repo=PI-Pokemon-Henry&theme=cobalt2&hide_border=true&show_icons=true" alt="Poke App"></a>
 
 <a href="https://github.com/Nachomorales99/Rick_and_Morty"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nachomorales99&repo=Rick_and_Morty&theme=radical&hide_border=true&show_icons=true" alt="Patitas Felices"></a>
 
